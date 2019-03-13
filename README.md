@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Web page to display favortie series and movies
+
+Trying to learn to how to develop a web page in Spring Boot using the REST Api architecture and publish the page in Git pages.
 
 You can use the [editor on GitHub](https://github.com/TransientObject/web-projects/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
